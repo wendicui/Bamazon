@@ -1,6 +1,6 @@
 # Bamazon
 
-- ##For User
+- ## For User
   - run ` node Bamazon.js`
   - Remember the id of products you would like to buy
   - Enter the amount you would like to buy
